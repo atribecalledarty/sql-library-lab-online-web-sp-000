@@ -2,7 +2,7 @@ INSERT INTO series (title, author_id, subgenre_id) VALUES
 ("Into the Darkness", 1, 1),
 ("The Castle in the Sky", 2, 2);
 
-INSERT INTO sub_genres (name) VALUES
+INSERT INTO subgenres (name) VALUES
 ("Mystery"),
 ("Adventure");
 
