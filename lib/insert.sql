@@ -1,4 +1,4 @@
-INSERT INTO series (title, author_id, sub_genre_id) VALUES
+INSERT INTO series (title, author_id, subgenre_id) VALUES
 ("Into the Darkness", 1, 1),
 ("The Castle in the Sky", 2, 2);
 
