@@ -12,14 +12,13 @@ CREATE TABLE books (
   title TEXT,
   year INTEGER,
   series_id INTEGER,
-  subgenre_id INTEGER
   );
   
 CREATE TABLE series (
   id INTEGER PRIMARY KEY,
   title TEXT,
   author_id INTEGER,
-  sub_genre_id INTEGER
+  subgenre_id INTEGER
   );
   
 CREATE TABLE authors (
