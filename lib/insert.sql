@@ -21,4 +21,11 @@ INSERT INTO books (title, year, series_id) VALUES
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
 ("Christoph", "Are we there yet?", "Moose", 1, 1),
 ("Ella", "I'm hungry", "Person", 1, 1),
-()
+("Mila", "Are you sure about that?", "Person", 1, 1),
+("Heizen", "Rawr", "Wolf", 1, 1),
+("Sen", "I'm afraid", "Person", 2, 2),
+("Hiro", "Come with me", "Dragon/Person", 2, 2),
+("Kuzuni", "Don't be afraid", "Spider-person", 2, 2),
+("Hachiro", "You are the one", "Gnoll", 2, 2);
+
+INSERT INTO character_books ()
