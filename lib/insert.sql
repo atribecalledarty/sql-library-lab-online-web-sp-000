@@ -28,4 +28,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
 ("Kuzuni", "Don't be afraid", "Spider-person", 2, 2),
 ("Hachiro", "You are the one", "Gnoll", 2, 2);
 
-INSERT INTO character_books ();
+INSERT INTO character_books (character_id, book_id) VALUES
+()
