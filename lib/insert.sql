@@ -18,4 +18,7 @@ INSERT INTO books (title, year, series_id) VALUES
 ("Flying with Dragons", 1982, 2),
 ("The Lost Crystal", 1988, 2);
 
-INSERT INTO characters (name, motto, species, )
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
+("Christoph", "Are we there yet?", "Moose", 1, 1),
+("Ella", "I'm hungry", "Person", 1, 1),
+()
