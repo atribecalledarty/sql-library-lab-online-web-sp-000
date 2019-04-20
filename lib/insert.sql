@@ -6,4 +6,8 @@ INSERT INTO sub_genres (name) VALUES
 ("Mystery"),
 ("Adventure");
 
-INSERT INTO authors (name)
+INSERT INTO authors (name) VALUES
+("Michael Ford"),
+("Miyazaki");
+
+INSERT INTO books ()
